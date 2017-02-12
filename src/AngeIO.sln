@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngeIO", "AngeIO\AngeIO.csproj", "{AAE0F015-F579-438C-9232-CE486471030B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngeIO.Tests", "AngeIO.Tests\AngeIO.Tests.csproj", "{3017F7DC-4721-4E93-ADE9-EAB8F57CD851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngeIO.Sample", "AngeIO.Sample\AngeIO.Sample.csproj", "{2D44CF1D-10F9-4E1D-AD77-E2286CD45E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAE0F015-F579-438C-9232-CE486471030B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE0F015-F579-438C-9232-CE486471030B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE0F015-F579-438C-9232-CE486471030B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE0F015-F579-438C-9232-CE486471030B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3017F7DC-4721-4E93-ADE9-EAB8F57CD851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3017F7DC-4721-4E93-ADE9-EAB8F57CD851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3017F7DC-4721-4E93-ADE9-EAB8F57CD851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3017F7DC-4721-4E93-ADE9-EAB8F57CD851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D44CF1D-10F9-4E1D-AD77-E2286CD45E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D44CF1D-10F9-4E1D-AD77-E2286CD45E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D44CF1D-10F9-4E1D-AD77-E2286CD45E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D44CF1D-10F9-4E1D-AD77-E2286CD45E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
