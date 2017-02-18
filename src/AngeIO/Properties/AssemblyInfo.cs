@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("AngeIO")]
-[assembly: AssemblyDescription("Event driven network IO library.")]
+[assembly: AssemblyDescription("Event-driven, non-blocking I/O model for .NET")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("AngeIO")]

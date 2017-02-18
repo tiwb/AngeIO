@@ -55,6 +55,7 @@
     <Compile Include="Logger.cs" />
     <Compile Include="TcpServer.cs" />
     <Compile Include="TcpSocket.cs" />
+    <Compile Include="Web\QueryStringCollection.cs" />
     <Compile Include="Web\WebSocket.cs" />
     <Compile Include="Web\WebSocketServer.cs" />
   </ItemGroup>
